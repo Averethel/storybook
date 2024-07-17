@@ -1,3 +1,7 @@
+## 8.2.5
+
+- Fix: Add header for MountMustBeDestructuredError message - [#28590](https://github.com/storybookjs/storybook/pull/28590), thanks @0916dhkim!
+
 ## 8.2.4
 
 - CLI: Add diagnostic when the `storybook` package is missing - [#28604](https://github.com/storybookjs/storybook/pull/28604), thanks @kasperpeulen!
